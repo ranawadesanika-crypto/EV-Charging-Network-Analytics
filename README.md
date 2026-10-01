@@ -59,3 +59,23 @@ The Power BI dashboard contains four analytical pages:
 - Cross-page slicer interaction
 - Interactive charts and tables
 - Page navigation
+- ## 🔄 Project Workflow
+
+Excel Dataset
+↓
+MySQL Database
+↓
+SQL Data Analysis
+↓
+Power BI
+↓
+Interactive Dashboard
+
+## 📌 Key KPIs
+
+- Total Charging Sessions
+- Total Energy Consumption (kWh)
+- Total Revenue
+- Average Session Duration
+- Charging Demand by Hour
+- Station-wise Revenue
