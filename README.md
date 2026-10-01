@@ -24,3 +24,38 @@ SQL Data Analysis
 Power BI
 ↓
 Interactive Dashboard
+## 📊 Dashboard Features
+
+The Power BI dashboard contains four analytical pages:
+
+### 1. Executive Overview
+- Key performance indicators
+- Revenue analysis
+- Charging demand trends
+- Energy consumption overview
+
+### 2. Station Performance
+- Charging station performance
+- Station revenue analysis
+- Charger demand analysis
+- Location-based station insights
+
+### 3. Vehicle & Customer Insights
+- Vehicle type analysis
+- Charging session patterns
+- Customer usage insights
+- Energy consumption analysis
+
+### 4. Peak Demand Analysis
+- Charging demand by time
+- Peak charging periods
+- Hourly charging session analysis
+- Demand patterns across the network
+
+### 🔎 Interactive Features
+
+- State-based filtering
+- Vehicle type filtering
+- Cross-page slicer interaction
+- Interactive charts and tables
+- Page navigation
