@@ -100,3 +100,13 @@ Interactive Dashboard
 - Created interactive dashboards using KPI cards, charts, tables, and slicers.
 - Added cross-page filtering and navigation for easier dashboard exploration.
 - Designed the dashboard with a consistent green EV-focused theme.
+## 🧠 Skills Demonstrated
+
+- Data cleaning and preparation
+- SQL and MySQL database handling
+- Data visualization with Power BI
+- Dashboard design and storytelling
+- KPI development
+- Interactive filtering and navigation
+- Data analysis and interpretation
+- Excel-based data handling
