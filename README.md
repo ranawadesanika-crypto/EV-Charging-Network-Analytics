@@ -79,3 +79,16 @@ Interactive Dashboard
 - Average Session Duration
 - Charging Demand by Hour
 - Station-wise Revenue
+- ## 📸 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](executive-overview.png)
+
+### Station Performance
+![Station Performance](Stations-performances.png)
+
+### Vehicle & Customer Insights
+![Vehicle & Customer Insights](vehicle-customers-insight.png)
+
+### Peak Demand Analysis
+![Peak Demand Analysis](peak-demand-analysis.png)
