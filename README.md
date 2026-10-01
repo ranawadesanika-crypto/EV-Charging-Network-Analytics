@@ -92,3 +92,11 @@ Interactive Dashboard
 
 ### Peak Demand Analysis
 ![Peak Demand Analysis](peak-demand-analysis.png)
+
+## 💡 Project Highlights
+
+- Connected Power BI to a MySQL database for data analysis and visualization.
+- Analyzed charging sessions, energy consumption, revenue, and station performance.
+- Created interactive dashboards using KPI cards, charts, tables, and slicers.
+- Added cross-page filtering and navigation for easier dashboard exploration.
+- Designed the dashboard with a consistent green EV-focused theme.
